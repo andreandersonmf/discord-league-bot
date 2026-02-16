@@ -1,4 +1,4 @@
-# 🏐 Discord League Management Bot
+# Discord League Management Bot
 
 Discord bot made in Python to manage a competitive League server.
 
