@@ -1,0 +1,12 @@
+# venv
+.venv/
+
+# env secrets
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# database
+*.db
